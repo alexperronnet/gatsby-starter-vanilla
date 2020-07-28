@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-starter-vanilla",
+  "private": "true",
+  "description": "A clean vanilla starter with the essentials for Gatsby",
+  "version": "1.0.0",
+  "author": "Alex Perronnet <alex@alexperronnet.com> (https://alexperronnet.com)",
+  "dependencies": {
+    "gatsby": "^2.24.12",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexperronnet/gatsby-starter-vanilla"
+  },
+  "bugs": {
+    "url": "https://github.com/alexperronnet/gatsby-starter-vanilla/issues"
+  }
+}
