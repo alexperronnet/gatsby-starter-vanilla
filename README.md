@@ -3,9 +3,11 @@
   <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
 </a>
 
-# Gatsby Starter Vanilla
+# [Gatsby Starter Vanilla](https://gatsby-starter-vanilla.netlify.app)
 
 A clean vanilla starter with the essentials for Gatsby. No surcharge, only what you need to get started. So you can add only the dependencies which are useful for you.
+
+[See demo](https://gatsby-starter-vanilla.netlify.app)
 
 ## Quick start
 
