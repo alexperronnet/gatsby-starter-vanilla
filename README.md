@@ -5,7 +5,7 @@
 
 # Gatsby Starter Vanilla
 
-A clean vanilla starter with the essentials for Gatsby.
+A clean vanilla starter with the essentials for Gatsby. No surcharge, only what you need to get started. So you can add only the dependencies which are useful for you.
 
 ## Quick start
 
