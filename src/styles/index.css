@@ -1,7 +1,7 @@
 html, body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #F0F0F2;
-  color: #48434F;
+  background-color: #FFF;
+  color: #000;
   margin: 0;
   padding: 0;
   height: 100vh;
@@ -11,17 +11,35 @@ html, body {
   text-align: center;
 }
 
-::selection {
-  background-color: #48434F;
-  color: #F0F0F2;
+.content {
+  padding: 5px;
 }
 
-a {
-  color: #8A4BAF;
+::selection {
+  background-color: #000;
+  color: #FFF;
+}
+
+.link {
+  color: #663399;
   text-decoration: none;
   border-bottom: dashed 1px;
 }
 
-a:hover {
-  color: #663399;
+.link:hover {
+  color: #8A4BAF;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #663399;
+  color: #FFF;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.button:hover {
+  background-color: #8A4BAF;
 }
