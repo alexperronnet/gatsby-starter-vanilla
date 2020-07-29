@@ -1,5 +1,3 @@
-<img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d4e3cf6e-e071-41fb-9c09-d0e5848daad1/deploy-status)](https://app.netlify.com/sites/gatsby-starter-vanilla/deploys)
 [![License](https://img.shields.io/badge/License-BSD%200--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
