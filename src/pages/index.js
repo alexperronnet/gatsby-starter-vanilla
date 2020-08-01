@@ -11,7 +11,7 @@ export default function Index() {
           Gatsby Starter Vanilla
         </h1>
         <p>
-          A clean vanilla starter with the essentials for Gatsby by <a className='link' href='https://alexperronnet.com' target='_blank' rel='noreferrer' title='alexperronnet.com'>alexperronnet</a>
+          A vanilla starter with the essentials for Gatsby by <a className='link' href='https://alexperronnet.com' target='_blank' rel='noreferrer' title='alexperronnet.com'>alexperronnet</a>
         </p>
         <a className='button' href='https://github.com/alexperronnet/gatsby-starter-vanilla' target='_blank' rel='noreferrer' title='Under 0BSD License'>
           View source
